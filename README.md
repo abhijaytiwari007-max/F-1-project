@@ -11,6 +11,10 @@ An interactive data analytics course project exploring team and driver points, n
 </p>
 
 <p>
+  <a href="https://abhijaytiwari007-max.github.io/F-1-project/"><strong>Explore Main Dashboard</strong></a>
+</p>
+
+<p>
   <img alt="Seasons covered: 2010–2026" src="https://img.shields.io/badge/Seasons-2010%E2%80%932026-e10600?style=for-the-badge">
   <img alt="Race-result rows: 6464" src="https://img.shields.io/badge/Race%20results-6%2C464-222222?style=for-the-badge">
   <img alt="Tableau visualizations: 9" src="https://img.shields.io/badge/Tableau%20views-9-00a1e4?style=for-the-badge">
